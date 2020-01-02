@@ -12,41 +12,24 @@ echo "Installing casks..."
 
 casks=(
   1password
+  audioslicer
   alfred
-  beardedspice
-  boom-3d
   caffeine
-  charles
-  firefox
-  font-hack
-  font-meslo-for-powerline
-  forklift
-  google-backup-and-sync
-  google-chrome
-  google-cloud-sdk
-  imageoptim
   iterm2
-  java
-  logitech-options
-  macdown
-  opera
-  postman
+  qlvideo
+  qlswift
+  qlrest
+  qladdict
+  qlmarkdown
+  ql-ansilove
+  qlprettypatch  
   qlcolorcode
   qlimagesize
   qlstephen
   quicklook-json
-  sequel-pro
-  slack
-  soundflower
-  spectacle
-  spotify
-  tableplus
-  the-unarchiver
-  tower
-  visual-studio-code
-  vlc
+  scriptql
+  torrent-file-editor
   webpquicklook
-  xscope
 )
 
 for c in ${casks[@]}; do
